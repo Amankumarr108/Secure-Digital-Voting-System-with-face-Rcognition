@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "voting system",
+            "database": "digital_voting",
+            "username": "postgres",
+            "password": "0000"
+        }
+    ]
+}
